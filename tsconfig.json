@@ -12,6 +12,5 @@
     // Add type definitions for our Vite runtime.
     "types": ["vite/client"]
   },
-  "include": ["./src/**/*.{ts,tsx}"],
-  "exclude": []
+  "include": ["./src/**/*.{ts,tsx}"]
 }
